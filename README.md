@@ -2,4 +2,4 @@
 
 Tour of Heroes: Part 2
 
-We refactor the master/detail view into separate components
+We create a reusable service to manage our hero data calls
