@@ -2,4 +2,4 @@
 
 Tour of Heroes: Part 2
 
-We create a reusable service to manage our hero data calls
+We add the Angular Component Router and learn to navigate among the views
